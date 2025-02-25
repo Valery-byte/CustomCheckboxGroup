@@ -9,9 +9,9 @@ Implementation Details
 The project utilizes the DependencyProperty class to manage property values and support data binding effectively.
 
 ##  The project contains two types of CheckboxGroup, each of which has an example.
-## ExampleCheckboxGroup
-![](ExampleCheckboxGroup.png)
+ExampleCheckboxGroup
+![ExampleCheckboxGroup](ExampleCustomCheckboxGroup.png)
 
-## ExampleCheckboxGroupTopLabel
-![](ExampleCheckboxGroupTopLabel.png)
+ExampleCheckboxGroupTopLabel
+![ExampleCheckboxGroupTopLabel](ExampleCheckboxGroupTopLabel.png)
 
