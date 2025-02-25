@@ -12,7 +12,6 @@ The project utilizes the DependencyProperty class to manage property values and 
 ExampleCheckboxGroup  
 ![ExampleCheckboxGroup](ExampleCustomCheckboxGroup.png)
 
-ExampleCheckboxGroupTopLabel
-
+ExampleCheckboxGroupTopLabel<br>
 ![ExampleCheckboxGroupTopLabel](ExampleCheckboxGroupTopLabel.png)
 
