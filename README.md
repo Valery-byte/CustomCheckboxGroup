@@ -6,8 +6,7 @@ Key Benefits
 - No External Dependencies: The source code is free from dependencies on external libraries, utilizing only standard C# features. This ensures ease of use and integration into various projects.
 - Template for Customization: This code serves as a template for creating your own CustomCheckboxGroup. You can study the existing implementation and modify it to suit your specific needs.
   
-Implementation Details
-The project utilizes the DependencyProperty class to manage property values and support data binding effectively.
+Implementation Details: The project utilizes the DependencyProperty class to manage property values and support data binding effectively.
 
 ##  The project contains two types of CheckboxGroup, each of which has an example.
 ExampleCheckboxGroup  
